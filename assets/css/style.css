@@ -608,7 +608,7 @@ section {
   transition: 0.5s;
 }
 
-.about .icon-box .icon i {
+.about .icon-box .icon  i {
   color: #428bca;
   font-size: 32px;
 }
@@ -846,7 +846,7 @@ section {
   background: #fff;
   border-radius: 50%;
   transition: 0.5s;
-  color: #428bca;
+  color: #f1b76a;
   font-size: 40px;
   overflow: hidden;
   padding-top: 20px;
@@ -854,7 +854,7 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  box-shadow: 0px 0 30px rgba(66, 139, 202, 0.5);
+  box-shadow: 0px 0 30px rgba(250, 196, 46, 0.5);
 }
 
 .services .title {
@@ -871,7 +871,7 @@ section {
 }
 
 .services .title a:hover {
-  color: #428bca;
+  color: #518b0e;
 }
 
 .services .title::after {
@@ -880,7 +880,7 @@ section {
   display: block;
   width: 50px;
   height: 2px;
-  background: #428bca;
+  background: #596b09;
   bottom: 0;
   left: calc(50% - 25px);
 }
